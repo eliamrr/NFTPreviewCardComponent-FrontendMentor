@@ -20,7 +20,7 @@ Los usuarios deberían poder:
 ![](./images/Screenshot%202025-08-12%20at%2001-38-55%20Frontend%20Mentor%20NFT%20preview%20card%20component.png)
 
 ### Enlaces
-- URL del sitio en vivo: [Blog tarjeta de previsualización](https://github.com/eliamrr/NFTPreviewCardComponent-FrontendMentor)
+- URL del sitio en vivo: [Blog tarjeta de previsualización](https://eliamrr.github.io/NFTPreviewCardComponent-FrontendMentor/)
 
 ## Mi proceso
 ### Construido con
